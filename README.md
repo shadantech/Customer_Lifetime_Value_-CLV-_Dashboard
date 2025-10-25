@@ -163,5 +163,9 @@ _Data Analyst_
 
 ---
 
-## 🪪 License
-This project is open-source and available under the [MIT License](LICENSE).
+## ⭐ Show Your Support
+
+If you found this project insightful, give it a **⭐ Star** on GitHub — it helps others discover it too!  
+Connect on **LinkedIn** for more Power BI, Tableau, and Data Analytics projects.
+
+---
