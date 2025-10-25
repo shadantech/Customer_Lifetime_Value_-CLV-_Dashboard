@@ -167,5 +167,3 @@ _Data Analyst_
 
 If you found this project insightful, give it a **⭐ Star** on GitHub — it helps others discover it too!  
 Connect on **LinkedIn** for more Power BI, Tableau, and Data Analytics projects.
-
----
