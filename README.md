@@ -162,6 +162,7 @@ _Data Analyst_
 🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/shadan.sarfaraz/vizzes)
 🔗 [Newsletter](https://shadantech.substack.com/)
 
+
 ---
 
 ## ⭐ Show Your Support
