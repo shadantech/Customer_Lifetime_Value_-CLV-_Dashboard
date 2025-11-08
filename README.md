@@ -108,7 +108,7 @@ COUNTD(IF [Order Count] > 1 THEN [Customer ID] END) / COUNTD([Customer ID])
 ---
 
 ## 🖥️ Dashboard Preview  
-[CLV Dashboard Preview](CLV_Dashboard_Preview.png)
+![CLV Dashboard Preview](CLV_Dashboard_Preview.png)
 
 ---
 
