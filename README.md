@@ -35,14 +35,14 @@ Delivered a dashboard enabling teams to:
 
 ---
 
-## Live Dashboard
-🔗 ([Live Dashboard](https://public.tableau.com/app/profile/shadan.sarfaraz/viz/Customer_Lifetime_Value_Dashboard/CustomerLifetimeValueCLVDashboard?publish=yes))
-
----
-
 ## 📊 Dashboard
 
 ![Dashboard Overview](CLV_Dashboard_Preview.png)
+
+---
+
+## Live Dashboard
+🔗 ([Live Dashboard](https://public.tableau.com/app/profile/shadan.sarfaraz/viz/Customer_Lifetime_Value_Dashboard/CustomerLifetimeValueCLVDashboard?publish=yes))
 
 ---
 
@@ -71,6 +71,27 @@ Delivered a dashboard enabling teams to:
 - **Table Calculations**  
 - **Dashboard Actions (Click-to-Filter)**  
 - **Story Points**  
+
+---
+
+## 📂 Project Structure
+Customer_Lifetime_Value_Dashboard/
+│
+├── images/
+│   └── CLV_Dashboard_Preview.png
+|
+├── data/
+│   └── CLV_Dataset.csv
+│
+├── dashboard/
+│   └── Customer_Lifetime_Value_Dashboard.twbx
+│
+└── README.md
+
+---
+
+## 🏁 Conclusion
+This dashboard delivers a complete CLV analytics system that helps teams understand customer profitability, improve retention strategies, and identify their highest-value customers using visual analytics.
 
 ---
 
