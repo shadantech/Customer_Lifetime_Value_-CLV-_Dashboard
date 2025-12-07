@@ -39,9 +39,6 @@ Delivered a dashboard enabling teams to:
 
 ![Dashboard Overview](CLV_Dashboard_Preview.png)
 
----
-
-## Live Dashboard
 🔗 ([Live Dashboard](https://public.tableau.com/app/profile/shadan.sarfaraz/viz/Customer_Lifetime_Value_Dashboard/CustomerLifetimeValueCLVDashboard?publish=yes))
 
 ---
@@ -75,11 +72,12 @@ Delivered a dashboard enabling teams to:
 ---
 
 ## 📂 Project Structure
+```
 Customer_Lifetime_Value_Dashboard/
 │
 ├── images/
 │   └── CLV_Dashboard_Preview.png
-|
+│
 ├── data/
 │   └── CLV_Dataset.csv
 │
@@ -87,6 +85,7 @@ Customer_Lifetime_Value_Dashboard/
 │   └── Customer_Lifetime_Value_Dashboard.twbx
 │
 └── README.md
+```
 
 ---
 
