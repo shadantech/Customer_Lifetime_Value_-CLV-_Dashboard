@@ -1,6 +1,6 @@
 # 💼 Customer Lifetime Value Dashboard
 
-## 📌 Project Overview
+## 📌 Overview
 A fully interactive Tableau dashboard designed to measure **Customer Lifetime Value**, analyze **retention vs churn**, and identify **high-value customer groups** using advanced analytics such as LODs, cohorts, and interactive actions.
 
 ---
@@ -25,13 +25,6 @@ Delivered a dashboard enabling teams to:
 - View **Active vs Churned** behavior instantly  
 - Track **Month-over-Month CLV growth**  
 - Improve segmentation and CRM targeting decisions  
-
----
-
-## 📊 Tools & Technologies
-- Tableau Desktop
-- CSV Dataset
-- LOD Expressions, Table Calcs, Cohorts
 
 ---
 
@@ -61,7 +54,14 @@ Delivered a dashboard enabling teams to:
 
 ---
 
-# ⚙️ Tableau Features Used
+## 📊 Tools & Technologies
+- Tableau Desktop
+- CSV Dataset
+- LOD Expressions, Table Calcs, Cohorts
+
+---
+
+## ⚙️ Tableau Features Used
 - **LOD Expressions**  
 - **Cohort Analysis**  
 - **Parameters (Metric Switcher)**  
